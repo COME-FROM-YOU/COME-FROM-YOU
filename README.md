@@ -10,6 +10,6 @@
 - Email : boolean.eth@gmail.com
 ### Skills
 - Front-End : HTML/CSS, JavaScript
-- Back-End : JSP/Servlet, Python
+- Back-End : JSP/Servlet, Python, Java
 - Database : ORACLE
 - O/S : Linux
