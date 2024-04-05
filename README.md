@@ -1,4 +1,4 @@
-### RequsetME / ResponseME 👋
+### RequsetME - ResponseME 👋
 
 <hr>
 
