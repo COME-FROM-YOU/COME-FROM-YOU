@@ -9,9 +9,9 @@
 ### Contact & Channel
 - Email : boolean.eth@gmail.com
 ### Skills
-- Front-End : HTML/CSS, JavaScript
+- Front-End : HTML / CSS, JavaScript
 - Back-End : JSP/Servlet, Python, Java
-- Database : ORACLE
+- Database : ORACLE / MySQL
 - O/S : Linux
 
 <hr>
